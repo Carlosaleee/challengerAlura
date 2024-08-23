@@ -4,9 +4,16 @@
   }
   
   header{
-
-    background-color: #ffffff;
+    background-color:  #d8dfe8;;
   }
+
+footer{
+    background-color: #0a3871;
+    padding: 0px;
+    
+  }
+
+
   .container {
     position: relative;
     width: 100vw;
@@ -64,7 +71,7 @@
     flex-grow: 0;
   }
   
-  .botones {
+  .botoes {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
