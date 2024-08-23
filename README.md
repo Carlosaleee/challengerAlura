@@ -1,4 +1,4 @@
-# Challenger Alura 2024
+# Challenges Alura 2024
 
 **Aluno:** Carlos Alexandre da Silva  
 
