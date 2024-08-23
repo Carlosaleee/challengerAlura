@@ -66,7 +66,7 @@ footer{
     font-family: "Inter";
     font-style: normal;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 14px;
     line-height: 150%;
     color: #e31313;
     opacity: 0.8;
@@ -81,7 +81,7 @@ footer{
     align-items: flex-start;
     padding: 1% 0;
     position: absolute;
-    width: 80%;
+    width: 70%;
     left: 12%;
     top: 82%;
     gap: 2%;
