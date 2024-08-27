@@ -2,7 +2,7 @@
 
 **Aluno:** Carlos Alexandre da Silva  
 
-**Curso:** Frontend / Lógica de programação - Alura 
+**Curso:** Frontend / Lógica de programação - Alura / Grupo 7
 
 **Desafio:** Desenvolver um Codificador de Textos 
 
